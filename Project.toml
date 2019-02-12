@@ -1,0 +1,4 @@
+name = "Loom"
+uuid = "5d73c274-2e93-11e9-2bf5-c3c61cff013d"
+authors = ["Kenta Sato <bicycle1885@gmail.com>"]
+version = "0.1.0"
